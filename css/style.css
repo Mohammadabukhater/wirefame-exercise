@@ -27,18 +27,18 @@ body {
     width: 960px;
     margin: 0 auto;
   }
-  div.hero {
+  div.logo {
     margin-top: 25px;
   }
   
-  div.cards {
+  div.bigframe {
     margin-top: 25px;
   }
-  div.cards > img {
+  div.bigframe > img {
     margin-right: 30px;
     float: left;
   }
-  div.cards > img:last-child {
+  div.bigframe > img:last-child {
     margin-right: 0px;
   }
   
@@ -51,7 +51,7 @@ body {
     float: left;
     margin-right: 25px;
   }
-  div.scroll {
+  div.rubishtalk {
     height: 300px;
     overflow: auto;
     margin-bottom: 17px;
